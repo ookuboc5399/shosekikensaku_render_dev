@@ -3,4 +3,5 @@ db.sqlite3
 .vscode
 __pycache__
 *.pyc
-.DS_Stor
+.DS_Store
+.env
